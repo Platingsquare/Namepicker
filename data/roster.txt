@@ -1,0 +1,23 @@
+# Sample Roster for Name Sorter
+# One name per line. Lines starting with # are ignored.
+
+Alice Johnson
+Bob Smith
+Charlie Brown
+Diana Prince
+Evan Wright
+Fiona Gallagher
+George Miller
+Hannah Montana
+Ivan Petrov
+Jenny Kirk
+Kevin Durant
+Lara Croft
+Mike Ross
+Nancy Wheeler
+Oscar Wilde
+Patricia Highsmith
+Quentin Tarantino
+Rachel Green
+Steve Rogers
+Tina Fey
