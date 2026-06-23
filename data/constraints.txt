@@ -1,0 +1,5 @@
+# Constraints: Names separated by comma must NOT be in the same group
+Alice, Bob
+Charlie, Diana
+Evan, Fiona
+George, Hannah
